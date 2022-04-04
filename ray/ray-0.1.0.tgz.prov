@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: latest
+description: A Helm chart for deployments of Ray on Kubernetes.
+name: ray
+type: application
+version: 0.1.0
+
+...
+files:
+  ray-0.1.0.tgz: sha256:757b9af5e81bdf9bba1991b0cf01833625f5f6f97a43b06f40a3d72ca4ce2820
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJiSnswCRBfWgQ34ja9hgAAX4gQAKHt7PCmeGeaXNpzIO4bxabt
+cV/3rB3kutnC1mmFZBCIwukb780Bs5L2mv/IxK0rhH26DMx68hioVEE0AtZHTHnr
+t3NNFa3EAdmLFG6G21FN5uF0bgxXcQ0BpBLVLomoUKvjj8bh49G1bMqJ4chAGfZV
+gBduqMuQbCS89o48jgDi2SLRGdHJvuTmmz4fEfJEPT3GieF+rkPR18L1GweU3jX4
+7ILL5LaxjPs+sHQjoIoSxyBqeHVqoKp+JaLofd26OKwECu3L+mH86Ye31HFdY6K/
+AfzHBxaN25jqQEtKLhBUBZtTQ0R37JK1uUR55aRlbRYvKZdbDFJLtUzMeWl8REOF
+zr3+28RF+5+6V1vESMarqCVux4peNYuB8xwD40Qcm6QFN+rS4A1VFTNjJRuXDwSG
+6EAwEKVw22h8JzxhmqcMHbUEJr1ZeK8jAx3B7AWhdi7eRcm1I9pamUSGnaiGcftP
+58+0z9hhJY4duaU6MGCYEHxNfzi5GxSbtqo5LjMEjmcRYor3ti1MRdu9D0HE4LIN
+mOSeX1DjQ0eYMpIu12ngMDvQ3eRcLjFxk16hmEZG0fShGA3YWgYIj1+Y8blEcyr/
+oeAm9QENghMAtgke6b5jxkUjvFBvhQiv7N899B5ZuEUkVctbtIKBjGLHAA5OUObj
+ngIaCV9wfnDgMNufDNql
+=3ghj
+-----END PGP SIGNATURE-----
